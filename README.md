@@ -14,11 +14,11 @@ Build confidence in writing real-world Python programs
 🧠 Grading Logic:
 
 Marks Range	Grade	Message
-90 – 100	A	Excellent! Outstanding performance 🌟
-80 – 89	B	Very Good! Keep it up 👍
-70 – 79	C	Good job! You can do even better 💪
-60 – 69	D	Fair effort. Keep practicing 🙂
-0 – 59	F	Don’t give up! Learn and try again 💡
+1. 90 – 100	A	Excellent! Outstanding performance 🌟
+2. 80 – 89	B	Very Good! Keep it up 👍
+3. 70 – 79	C	Good job! You can do even better 💪
+4. 60 – 69	D	Fair effort. Keep practicing 🙂
+5. 0 – 59	F	Don’t give up! Learn and try again 💡
 
 🛠️ Technologies Used
 
@@ -26,7 +26,7 @@ Language: Python 3
 
 Concepts:
 
-if-elif-else statements
-while loop
-functions
-exception handling (try-except)
+!.if-elif-else statements
+2.while loop
+3.functions
+4.exception handling (try-except)
