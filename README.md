@@ -26,7 +26,7 @@ Language: Python 3
 
 Concepts:
 
-!.if-elif-else statements
-2.while loop
-3.functions
-4.exception handling (try-except)
+1. if-elif-else statements
+2. while loop
+3. functions
+4. exception handling (try-except)
